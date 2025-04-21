@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kyaw Zin Thet and I'm a professional senior software engineer. I ❤️ coding! I love to share my knowledge and experiences during my free time with others!</h2>
+<h2 align="left">Hi 👋! My name is Kingston and I'm a professional senior software engineer. <br/>I ❤️ coding! I love to share my knowledge and experiences during my free time with others!</h2>
 
 ###
 
