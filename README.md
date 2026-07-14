@@ -1,11 +1,10 @@
-<h2 align="left">Hi 👋!<br/>My name is Kingston and I'm a professional senior software engineer. <br/>I ❤️ coding! I love to share my knowledge and experiences during my free time with others!</h2>
+<h2 align="left">Hi 👋!
 
-###
+I'm Kingston, a Senior Software Engineer with 10+ years of experience building modern web applications.
 
-<div align="left">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=kzt-kingston&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kzt-kingston&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+🚀 Currently transitioning into AI Engineering, focusing on Agentic AI, LLM applications, and Full-Stack AI systems.
+
+I love building, learning, and sharing knowledge with the developer community.</h2>
 
 ###
 
